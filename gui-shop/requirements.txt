@@ -1,0 +1,5 @@
+tk
+fpdf
+qrcode
+Pillow
+python-dotenv
